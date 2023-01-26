@@ -58,7 +58,7 @@ The statistics of the two datasets are shown in following figures:
 <img src="resource/MarKG.png" width="75%" height="75%" />
 </div>
 
-We put the text data under `MarT/dataset/`, and the image data can be downloaded through [xxx]() and placed on `MarT/dataset/MARS/images`.
+We put the text data under `MarT/dataset/`, and the image data can be downloaded through this [link](https://pan.baidu.com/s/1WZvpnTe8m0m-976xRrH90g) with extraction code (7hoc) and placed on `MarT/dataset/MARS/images`.
 
 The expected structure of files is:
 

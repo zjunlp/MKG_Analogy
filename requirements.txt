@@ -1,9 +1,9 @@
-transformers==4.19.0
+transformers==4.16.0
 torchvision==0.8.0
 scipy==1.6.2
 scikit-learn==1.0.2
 dataclasses==0.6
 datasets==2.3.2
-numpy==1.21.2
+numpy==1.22
 pandas==1.4.1
 torch==1.7.0
