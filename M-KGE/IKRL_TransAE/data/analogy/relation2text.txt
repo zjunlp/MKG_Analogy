@@ -1,0 +1,192 @@
+P276	location
+P47	shares border with
+P140	religion or worldview
+P910	topic's main category
+P279	subclass of
+P101	field of work
+P1889	different from
+P155	follows
+P1343	described by source
+P31	instance of
+P3095	practiced by
+P2283	uses
+P5008	on focus list of Wikimedia project
+P2852	emergency phone number
+P1056	product or material produced
+P1792	category of associated people
+P131	located in the administrative territorial entity
+P2853	electrical plug type
+P27	country of citizenship
+P21	sex or gender
+P2341	indigenous to
+P460	said to be the same as
+P366	has use
+P159	headquarters location
+P17	country
+P1464	category for people born here
+P527	has part(s)
+P530	diplomatic relation
+P1151	topic's main Wikimedia portal
+P1433	published in
+P112	founded by
+P5125	Wikimedia outline
+P1995	health specialty
+P105	taxon rank
+P30	continent
+P106	occupation
+P463	member of
+P462	color
+P495	country of origin
+P136	genre
+P361	part of
+P282	writing system
+P175	performer
+P750	distributed by
+P162	producer
+P150	contains the administrative territorial entity
+P206	located in or next to body of water
+P2184	history of topic
+P1552	has quality
+P2079	fabrication method
+P2579	studied by
+P1412	languages spoken, written or signed
+P1269	facet of
+P364	original language of film or TV show
+P1001	applies to jurisdiction
+P921	main subject
+P740	location of formation
+P2578	studies
+P306	operating system
+P1435	heritage designation
+P186	made from material
+P6	head of government
+P828	has cause
+P6379	has works in the collection
+P163	flag
+P264	record label
+P38	currency
+P461	opposite of
+P190	twinned administrative body
+P1365	replaces
+P86	composer
+P8402	open data portal
+P1441	present in work
+P2936	language used
+P610	highest point
+P2670	has part(s) of the class
+P103	native language
+P1303	instrument
+P166	award received
+P8744	economy of topic
+P1454	legal form
+P6216	copyright status
+P793	significant event
+P2175	medical condition treated
+P171	parent taxon
+P437	distribution format
+P734	family name
+P1582	natural product of taxon
+P2354	has list
+P421	located in time zone
+P452	industry
+P36	capital
+P407	language of work or name
+P735	given name
+P7763	copyright status as a creator
+P1542	has effect
+P1424	topic's main template
+P122	basic form of government
+P205	basin country
+P37	official language
+P710	participant
+P69	educated at
+P1382	partially coincident with
+P1465	category for people who died here
+P20	place of death
+P703	found in taxon
+P737	influenced by
+P1196	manner of death
+P6104	maintained by WikiProject
+P5869	model item
+P170	creator
+P1535	used by
+P138	named after
+P19	place of birth
+P156	followed by
+P272	production company
+P1479	has contributing factor
+P1557	manifestation of
+P129	physically interacts with
+P127	owned by
+P417	patron saint
+P39	position held
+P706	located in/on physical feature
+P9241	demographics of topic
+P5658	railway traffic side
+P1622	driving side
+P551	residence
+P61	discoverer or inventor
+P425	field of this occupation
+P172	ethnic group
+P1344	participant in
+P6886	writing language
+P1376	capital of
+P1313	office held by head of government
+P7867	category for maps
+P832	public holiday
+P57	director
+P141	IUCN conservation status
+P180	depicts
+P344	director of photography
+P2789	connects with
+P509	cause of death
+P517	interaction
+P1366	replaced by
+P2868	subject has role
+P2596	culture
+P1589	lowest point
+P1672	this taxon is source of
+P641	sport
+P1791	category of people buried here
+P400	platform
+P8989	category for the view of the item
+P937	work location
+P111	measured physical quantity
+P2633	geography of topic
+P1830	owner of
+P301	category's main topic
+P35	head of state
+P618	source of energy
+P58	screenwriter
+P4952	safety classification and labelling
+P1740	category for films shot at this location
+P108	employer
+P840	narrative location
+P121	item operated
+P194	legislative body
+P277	programming language
+P161	cast member
+P291	place of publication
+P195	collection
+P50	author
+P85	anthem
+P40	child
+A0	synonym
+A1	antonym
+A2	prerequisite
+A3	identical to
+A4	juxtaposition to
+A5	contradictory to
+A6	intersection to
+A7	probabilistic attribute
+A8	metaphor
+A9	takes place in
+A10	tool of
+A11	target of
+A12	corresponds to
+A13	follow
+A14	sufficient to
+A15	verb-object
+A16	head-modifier
+A17	subject-object
+A18	subject-predicate

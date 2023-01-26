@@ -1,0 +1,192 @@
+P31	that class of which this subject is a particular example and member; different from P279 (subclass of); for example: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform)
+P910	main Wikimedia category
+P366	main use of the subject (includes current and former usage)
+P5008	property to indicate that an item is of particular interest for a Wikimedia project. This property does not add notability. Items should not be created with this property if they are not notable for Wikidata. See also P6104, P972, P2354.
+P1740	the object is a category for films shot at or in the subject
+P47	countries or administrative subdivisions, of equal level, that this item borders, either by land or water. A single common point is enough.
+P1151	Wikimedia portal associated with this topic
+P937	location where persons or organisations were actively participating in employment, business or other work
+P264	brand and trademark associated with the marketing of subject music recordings and music videos
+P421	time zone for this item
+P1552	the entity has an inherent or distinguishing non-material characteristic
+P1343	work where this item is described
+P1269	topic of which this item is an aspect, item that offers a broader perspective on the same topic
+P37	language designated as official by this item
+P361	object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A). Inverse property of "has part" (P527, see also "has parts of the class" (P2670)).
+P530	diplomatic relations of the country
+P527	part of this subject; inverse property of "part of" (P361). See also "has parts of the class" (P2670).
+P106	occupation of a person; see also "field of work" (Property:P101), "position held" (Property:P39)
+P6886	language in which the writer has written their work
+P279	this item is a subclass (subset) of that item; all instances of these items are instances of those items; different from P31 (instance of), e.g.: K2 is an instance of mountain; volcano is a subclass of mountain (and an instance of volcanic landform).
+P1622	side of the road that vehicles drive on in a given jurisdiction
+P750	distributor of a creative work; distributor for a record label; news agency; film distributor
+P27	the object is a country that recognizes the subject as its citizen
+P180	entity visually depicted in an image, literarily described in a work, or otherwise incorporated into an audiovisual or other medium; see also P921,  'main subject'
+P131	the item is located on the territory of the following administrative entity. Use P276 for specifying locations that are non-administrative places and for items about events. Use P1382 if the item falls only partially into the administrative entity.
+P6379	collection that has works of this person or organisation (use archive location P485 for the archives)
+P1424	the main template relating to a topic
+P17	sovereign state of this item (not to be used for human beings)
+P1672	links a taxon to natural products it produces. Note that it does not say "this taxon is the source of" or "this taxon is a source of" as this may vary. Some products may be yielded by more than one taxon.
+P495	country of origin of this item (creative work, food, phrase, product, etc.)
+P205	country that have drainage to/from or border the body of water
+P2853	standard plug type for mains electricity in a country
+P2670	the subject instance (the subject is not a class) has one or more parts of the object class
+P190	twin towns, sister cities, twinned municipalities and other localities that have a partnership or cooperative agreement, either legally or informally acknowledged by their governments
+P1412	language(s) that a person or a people speaks, writes or signs, including the native language(s)
+P30	continent of which the subject is a part
+P2341	place that a language, folk dance, cooking style, food, species or other cultural expression is found (or was originally found)
+P1465	category item for people who died in this location
+P1464	category item that groups people born in this place
+P5658	indicates for a country or a railway line whether rail traffic usually runs on the left or right hand side
+P1001	the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)
+P171	closest parent taxon of the taxon in question
+P103	language or languages a person has learned from early childhood
+P1542	effect of this item
+P1382	object that is partially part of, but not fully part of (P361), the subject
+P150	(list of) direct subdivisions of an administrative territorial entity
+P1441	this (fictional or fictionalized) entity or person appears in that work as part of the narration (use P2860 for works citing other works, P361/P1433 for works being part of other works, P1343 for entities described in non-fictional accounts)
+P1889	item that is different from another item, with which it may be confused
+P832	official public holiday that occurs in this place in its honor, usually a non-working day
+P136	creative work's genre or an artist's field of work (P101). Use main subject (P921) to relate creative works to their topic
+P61	subject who discovered, first described, invented, or developed this discovery or invention
+P156	immediately following item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]
+P20	most specific known (e.g. city instead of country, or hospital instead of city) death location of a person, animal or fictional character
+P840	the narrative of the work is set in this location
+P206	body of water on or next to which a place is located
+P50	main creator(s) of a written work (use on works, not humans); use P2093 when Wikidata item is unknown or does not exist
+P140	religion of a person, organization or religious building, or associated with this subject
+P3095	type of agents that study this subject or work in this profession
+P21	sex or gender identity of human or animal. For human: male, female, non-binary, intersex, transgender female, transgender male, agender. For animal: male organism, female organism. Groups of same gender use subclass of (P279)
+P706	located on the specified (geo)physical feature. Should not be used when the value is only political/administrative (P131) or a mountain range (P4552).
+P463	organization, club or musical group to which the subject belongs. Do not use for membership in ethnic or social groups, nor for holding a political position, such as a member of parliament (use P39 for that).
+P2184	item about the historical development of an subject's topic, sample: "history of Argentina" for "Argentina". To list key events of the topic, use "significant event" (P793)
+P19	most specific known (e.g. city instead of country, or hospital instead of city) birth location of a person, animal or fictional character
+P509	underlying or immediate cause of death.  Underlying cause (e.g. car accident, stomach cancer) preferred.  Use 'manner of death' (P1196) for broadest category, e.g. natural causes, accident, homicide, suicide
+P437	method (or type) of distribution for the subject
+P122	subject's government
+P2578	the object that an academic field studies; distinct from field of work (P101), which is used for human, organization, etc.
+P166	award or recognition received by a person, organization or creative work
+P7763	states if the body of work published during the lifetime of this creator is still copyrighted or in the public domain
+P163	subject's flag
+P6104	WikiProject that maintains this property, item, or linked pages. If the WikiProject is hosted outside of Wikidata, define the scope using the qualifier "of (P642)"
+P170	maker of this creative work or other object (where no more specific property exists)
+P105	level in a taxonomic hierarchy
+P1303	musical instrument that a person plays or teaches or used in a music occupation
+P111	value of a physical property expressed as number multiplied by a unit
+P121	equipment, installation or service operated by the subject
+P112	founder or co-founder of this organization, religion or place
+P737	this person, idea, etc. is informed by that other person, idea, etc., e.g. “Heidegger was influenced by Aristotle”
+P127	owner of the subject
+P462	color of subject
+P2936	language widely used (spoken or written) in this place or at this event
+P2354	Wikimedia list related to this subject
+P407	language associated with this creative work (such as books, shows, songs, broadcasts or websites) or a name (for persons use "native language" (P103) and "languages spoken, written or signed" (P1412))
+P551	the place where the person is or has been, resident
+P2579	subject is studied by this science or domain
+P186	material the subject or the object is made of or derived from (do not confuse with P10672 which is used for processes)
+P2852	telephone number to contact emergency services
+P276	location of the object, structure or event. In the case of an administrative entity as containing item use P131. For statistical entities use P8138. In the case of a geographic entity use P706. Use P7153 for locations associated with the object.
+P461	item that is the opposite of this item
+P460	this item is said to be the same as that item, but it's uncertain or disputed
+P1995	main specialty that diagnoses, prevent human illness, injury and other physical and mental impairments
+P344	person responsible for the framing, lighting, and filtration of the subject work
+P364	language in which a film or a performance work was originally created. Deprecated for written works and songs; use P407 ("language of work or name") instead.
+P1792	Wikimedia category for people associated with this place or organization
+P35	official with the highest formal authority in a country/state
+P1454	legal form of an entity
+P108	person or organization for which the subject works or worked
+P175	actor, musician, band or other performer associated with this role or musical work
+P5869	defines which item is a best practice example of modelling a subject, which is described by the value of this property, usage instructions at Wikidata:Model items
+P703	the taxon in which the item can be found
+P5125	item about an outline of the topic at Wikimedia sites
+P9241	item that deals with demographics of the subject
+P417	patron saint adopted by the subject
+P57	director(s) of film, TV-series, stageplay, video game or similar
+P1376	country, state, department, canton or other administrative division of which the municipality is the governmental seat
+P85	subject's official anthem
+P8989	category for the view of this item (object, place)
+P272	company that produced this film, audio or performing arts work
+P1589	point with lowest elevation in the country, region, city or area
+P162	person(s) who produced the film, musical work, theatrical production, etc. (for film, this does not include executive producers, associate producers, etc.) [for production company, use P272, video games - use P178]
+P1830	entities owned by the subject
+P1535	item or concept that makes use of the subject (use sub-properties when appropriate)
+P921	primary topic of a work (see also P180: depicts)
+P7867	name of the Wikimedia category specifically for maps or plans of this item
+P159	city, where an organization's headquarters is or has been situated. Use P276 qualifier for specific building
+P161	actor in the subject production [use "character role" (P453) and/or "name of the character role" (P4633) as qualifiers] [use "voice actor" (P725) for voice-only role]
+P6216	copyright status for intellectual creations like works of art, publications, software, etc.
+P6	head of the executive power of this town, city, municipality, state, country, or other governmental body
+P1479	thing that significantly influenced, but did not directly cause, this outcome or effect.  Used in conjunction with 'has cause' and 'has immediate cause'.  See '[[Help:Modeling causes]]'.
+P828	underlying cause, thing that ultimately resulted in this effect
+P301	primary topic of the subject Wikimedia category
+P618	describes the source of energy an animated object (machine or animal) uses
+P101	specialization of a person or organization; see P106 for the occupation
+P1557	inherent and characteristic embodiment of a given concept
+P793	significant or notable events associated with the subject
+P2175	disease that this pharmaceutical drug, procedure, or therapy is used to treat
+P452	specific industry of company or organization
+P138	entity or event that inspired the subject's name, or namesake (in at least one language). Qualifier "applies to name" (P5168) can be used to indicate which one
+P734	part of full name of person
+P155	immediately prior item in a series of which the subject is a part, preferably use as qualifier of P179 [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]
+P2283	item or concept used by the subject or in the operation (see also instrument [P1303] and armament [P520])
+P1056	material or product produced by a government agency, business, industry, facility, or process
+P400	platform for which a work was developed or released, or the specific platform version of a software product
+P194	legislative body governing this entity; political institution with elected representatives, such as a parliament/legislature or council
+P610	point with highest elevation in a region, or on the path of a race or route
+P1582	links a natural product with its source (animal, plant, fungal, algal, etc.)
+P8402	the item for the open data portal belonging to this entity
+P1366	other person or item which continues the item by replacing it in its role. Use P156 ("followed by") if the item is not replaced nor identical, but adds to the series (e.g. books in a series).
+P2079	method, process or technique used to grow, cook, weave, build, assemble, manufacture the item
+P641	sport that the subject participates or participated in or is associated with
+P517	subset of the four fundamental forces (strong (Q11415), electromagnetic (Q849919), weak (Q11418), and gravitation (Q11412) with which a particle interacts
+P306	operating system (OS) on which a software works or the OS installed on hardware
+P1365	person, state or item replaced. Use "structure replaces" (P1398) for structures. Use "follows" (P155) if the previous item was not replaced or predecessor and successor are identical
+P86	person(s) who wrote the music [for lyricist, use "lyrics by" (P676)]
+P740	location where a group or organization was formed
+P36	seat of government of a country, province, state or other type of administrative territorial entity
+P2868	role/generic identity of the item ("subject"), also in the context of a statement. For the role of the value of the statement ("object"), use P3831 ("object has role"). For acting roles, use P453 ("character role"). For persons, use P39.
+P38	currency used by item
+P425	field corresponding to this occupation or profession (use only for occupations/professions - for people use Property:P101, for companies use P452)
+P710	person, group of people or organization (object) that actively takes/took part in an event or process (subject).  Preferably qualify with "object has role" (P3831). Use P1923 for participants that are teams.
+P39	subject currently or formerly holds the object position or public office
+P172	subject's ethnicity (consensus is that a VERY high standard of proof is needed for this field to be used. In general this means 1) the subject claims it themselves, or 2) it is widely agreed on by scholars, or 3) is fictional and portrayed as such)
+P282	alphabet, character set or other system of writing used by a language, supported by a typeface
+P1435	heritage designation of a cultural or natural site
+P141	conservation status assigned by the International Union for Conservation of Nature
+P2596	human culture or people (or several cultures) associated with this item
+P8744	item that deals with the economy of the subject
+P69	educational institution attended by subject
+P1344	event in which a person or organization was/is a participant; inverse of P710 or P1923
+P1791	Wikimedia category for people with a burial site within this area
+P195	art, museum, archival, or bibliographic collection the subject is part of
+P1196	general circumstances of a person's death; e.g. natural causes, accident, suicide, homicide, etc.  Use 'cause of death' (P509) for the specific physiological mechanism, e.g. heart attack, trauma, pneumonia...
+P129	physical entity that the subject interacts with
+P1313	political office that is fulfilled by the head of the government of this item
+P291	geographical place of publication of the edition (use 1st edition when referring to works)
+P2633	item that deals with the geography of the subject. Sample: "Rio de Janeiro" uses this property with value "geography of Rio de Janeiro" (Q10288853). For the location of a subject, use "location" (P276).
+P2789	item with which the item is physically connected
+P735	first name or another given name of this person; values used with the property should not link disambiguations nor family names
+P4952	classification and labelling data for risk identification about chemicals
+P40	subject has object as child. Do not use for stepchildren
+P58	person(s) who wrote the script for subject item
+P1433	larger work that a given work was published in, like a book, journal or music album
+P277	the programming language(s) in which the software is developed
+A0	Sense of another lexeme with the same meaning as this sense
+A1	Sense of a lexeme with the opposite meaning to this sense
+A2	Prior event or achievement that a person or team needs to complete before joining or obtaining the item topic
+A3	The meanings of two terms are identical
+A4	Two terms belong to the same hypernym or have the same properties or functions
+A5	Two term are contradictory to each other
+A6	The extension of the two terms intersects
+A7	One term is probably the attribute of the other
+A8	A term is the metaphor of the other, reflecting something abstract indirectly
+A9	A term takes place in the other
+A10	One term is the tool of the other
+A11	One term is the target of the other
+A12	Terms generally correspond to each other
+A13	The terms have a chronological or other sequential relationship, but one term does not cause the other
+A14	One term is a sufficient condition for the other
+A15	The action and the object on which the action acts
+A16	The preceding term modifies the other
+A17	The originator and receiver of an action
+A18	The originator of the action and the action itself

@@ -1,0 +1,2411 @@
+mall	Q219469
+internal	Q66571844
+disputes	Q180684
+seeders	Q111725985
+rayon	Q910194
+podium	Q60142
+fanatism	Q39074527
+adore	Q366371
+sweets	Q2464807
+occupied	Q20723554
+postcard	Q192425
+elephant	Q7378
+route	Q1051976
+mathematician	Q170790
+antiques	Q472760
+writ	Q1001059
+armchair	Q11285759
+tonne	Q191118
+shipping	Q1937808
+success	Q7632586
+energy saving	Q380170
+rain	Q7925
+plan	Q1371819
+negotiation	Q202875
+seawater	Q184395
+organ	Q1444
+ritual vessel	Q17379796
+cucumber	Q2735883
+rice paper	Q1066536
+buoyancy	Q6497624
+explore	Q97849650
+chinese painting	Q919348
+personification	Q207174
+christian	Q18001597
+zip	Q204
+tongue	Q9614
+landfill	Q152810
+rational	Q102104911
+wind	Q8094
+creek	Q1437299
+bear market	Q2486664
+sound waves	Q3629144
+telephone	Q11035
+cake	Q13276
+top	Q1435365
+chlorophyll	Q43177
+pine	Q1503211
+desert	Q8514
+woods	Q4421
+villain	Q290691
+orchestration	Q3367000
+pepper	Q201959
+building material	Q206615
+competent	Q1780863
+bedding	Q1762457
+dirty	Q107998873
+famine	Q168247
+lion group	Q6555422
+small	Q24245823
+burger	Q6663
+civil servants	Q63485459
+fast	Q191924
+sauerkraut	Q154166
+word	Q8171
+child	Q7569
+short	Q106526
+petal	Q107412
+defense	Q1985622
+hotel	Q27686
+table	Q14748
+peach	Q13189
+outside	Q30014662
+children	Q21075684
+community	Q177634
+violin	Q8355
+law	Q7748
+cinema	Q11424
+preamble to the constitution	Q3345385
+petroleum	Q22656
+performer	Q713200
+hairnet	Q1566593
+restaurant	Q11707
+nomad	Q128393
+spring	Q124714
+hatred	Q160232
+region	Q82794
+abundant	Q223722
+mortal	Q65940913
+motor train	Q65375807
+rational numbers	Q47005650
+formulate	Q57650068
+omelette	Q20129
+step	Q53996838
+society	Q8425
+conductive core	Q37384866
+sunny	Q233894
+rectangle	Q209
+sue	Q16281769
+clear	Q306484
+zipper	Q101761
+world	Q16502
+accident	Q171558
+toiletry	Q3246832
+food poisoning	Q272002
+pulp	Q1470757
+zoo	Q43501
+positive number	Q3176558
+cure	Q1595418
+logical	Q364
+new york city	Q60
+electrical appliances	Q60300628
+rest	Q879844
+news	Q38926
+pause	Q17562059
+hospitalization	Q3140971
+car	Q929
+weather	Q11663
+carriage	Q235356
+coal	Q24489
+cutlery	Q81944
+penalty	Q2068602
+quality control	Q827792
+hurdles	Q80024808
+preview	Q1324197
+integrity	Q1329012
+castle	Q23413
+museums	Q207694
+solar energy	Q40015
+comb	Q23834
+mom	Q7560
+beef	Q192628
+graduate student	Q18245166
+completion	Q3685258
+jaguar	Q35694
+hydrochloric acid	Q2409
+province	Q34876
+wedding ring	Q842096
+traffic	Q4323994
+actor	Q33999
+market	Q37654
+sedan	Q190578
+reward and punishment	Q33943815
+harvester	Q4229435
+tissue	Q40397
+young	Q845069
+cell	Q7868
+soy	Q11006
+mesh	Q691310
+faithful	Q1755355
+subordinate	Q78070424
+judges	Q81240
+drizzle	Q211521
+stanza	Q1756348
+antarctica	Q51
+press conference	Q272281
+rattlesnake	Q10282840
+dinosaur	Q430
+wall	Q42948
+west	Q679
+enterprise	Q6881511
+crane	Q178692
+field trip	Q8013033
+historical site	Q27916659
+bar	Q187456
+clean energy	Q4116742
+lychee	Q105428070
+nature	Q7860
+speaker	Q1758037
+panda	Q3850736
+corrosion	Q137056
+spaceship	Q3553322
+real number	Q12916
+desktop	Q9127910
+additives	Q4681350
+culture	Q11042
+programs	Q85574465
+package	Q1995545
+promotion	Q574433
+walk	Q2236563
+concept	Q151885
+fax	Q132744
+beard	Q42804
+keep warm	Q107008077
+pancake	Q44541
+united kingdom	Q145
+network	Q1900326
+kitchenware	Q1521410
+test	Q27318
+slow	Q628674
+nails	Q36864
+gala	Q200538
+harmony	Q184421
+graduate students	Q103838588
+evacuation	Q606332
+poultry	Q178559
+poems	Q5185279
+anaconda	Q3306164
+security check	Q11898832
+gauze	Q618710
+human	Q5
+trial	Q8016240
+species extinction	Q123509
+the earth	Q2
+china	Q148
+popcorn	Q924220
+time	Q11471
+altar	Q101687
+potatoes	Q7235103
+filename	Q1144928
+suzhou	Q42622
+peach pit	Q27650233
+backwardness	Q2362573
+rise	Q1139344
+blue	Q1088
+guilty	Q705178
+perch	Q600262
+muddy	Q2581003
+anti-epidemic	Q102227442
+statistics	Q12483
+nitrogen	Q627
+fail	Q1121708
+sand painting	Q1439311
+refrigerator	Q37828
+meal	Q6460735
+peasant	Q838811
+process	Q10843872
+fire	Q3196
+laptop	Q3962
+money	Q1368
+virtue	Q157811
+dishwasher	Q186263
+thundercloud	Q37319371
+athlete	Q2066131
+jeans	Q83363
+heating	Q11880006
+primate	Q7380
+truck	Q43193
+knowing	Q9081
+peking university	Q16952
+ears	Q7362
+scholar	Q2248623
+plateau	Q75520
+christianity	Q5043
+pig iron	Q901785
+goat	Q2934
+pale	Q593676
+scared	Q44619
+soybean	Q61503220
+envy	Q188739
+station	Q12819564
+sunglasses	Q217541
+staff	Q6813432
+wechat	Q283233
+permission	Q7169333
+aid	Q23835475
+soil erosion	Q889503
+terrified	Q3984767
+lobby	Q31948
+torso	Q160695
+soldier	Q4991371
+mediterranean sea	Q986177
+celebration	Q3010205
+silicosis	Q653318
+aeroplane	Q197
+flute	Q11405
+data	Q42848
+criminal	Q2159907
+rhetoric	Q81009
+street	Q79007
+boring	Q3210331
+rotten	Q49638525
+lighting	Q210064
+chair	Q15026
+sheep	Q7368
+building	Q41176
+women	Q467
+after sales	Q4690798
+guide dogs	Q38782
+hebei university	Q835731
+utensils	Q110014643
+hair	Q28472
+jiangxi	Q57052
+cross talk	Q1943920
+talent	Q190139
+japan	Q17
+literary genre	Q223393
+leather shoes	Q71003196
+cervix	Q666412
+tires	Q169545
+kitten	Q147
+vaccines	Q134808
+ask	Q918257
+dessert	Q182940
+mercury	Q925
+magnet	Q11421
+plow	Q47459710
+cable	Q646462
+atmosphere	Q8104
+eyes	Q7364
+ducks	Q17319881
+worship	Q2514663
+forensics	Q495304
+break up	Q833566
+quality	Q1207505
+primary school	Q9842
+cruise	Q2063640
+express	Q610190
+averse	Q60528728
+revising	Q102397207
+beauty	Q7242
+steering wheel	Q679300
+partner	Q7140693
+nursing	Q121176
+beautiful	Q813449
+landmine	Q178795
+suv	Q192152
+chapel	Q108325
+triceratops	Q14384
+posterior	Q2132510
+lethargic	Q15729017
+retreat	Q1760704
+sulfur dioxide	Q5282
+parade	Q657449
+lamps	Q1138737
+real estate	Q10494269
+incentive	Q1414816
+tribe	Q227936
+attorney	Q40348
+buying	Q96652354
+hebei	Q21208
+north	Q659
+chuckle	Q170579
+cabin	Q3649129
+short stories	Q2357358
+reverse	Q1542661
+gaggle	Q5516863
+pittsburgh	Q1342
+coyote	Q44299
+measurement	Q12453
+sweet cake	Q31808687
+mammal	Q7377
+qinghai lake	Q201294
+doorknob	Q23009
+sofa	Q131514
+mouse	Q7987
+velociraptor	Q14403
+suits	Q370185
+senator	Q15686806
+pedals	Q27540169
+eggs	Q1760818
+emergencies	Q93727271
+hard	Q699612
+club	Q988108
+blitzkrieg	Q162247
+rainstorm	Q65510617
+chilly	Q270952
+essential	Q30093000
+suspension	Q272870
+teeth	Q19861552
+deluge	Q134052
+computer room	Q5157576
+live	Q165714
+gorilla	Q36611
+roof	Q83180
+resource	Q1554231
+drum	Q11404
+chest	Q366134
+good wine	Q112230559
+harvest	Q213753
+big	Q179157
+snub	Q18378865
+hoe	Q131154
+airplane	Q197
+environmental protection	Q832237
+blender	Q501862
+laser	Q38867
+plants	Q756
+intellectuals	Q58968
+chap	Q16875619
+mechanics	Q41217
+jewelry	Q161439
+swallow	Q1401371
+bicycle	Q11442
+mixer	Q954087
+captain	Q19100
+payment	Q1148747
+doors and windows	Q16835776
+principal	Q7245047
+chinese	Q7850
+drugs	Q8386
+playing	Q110458661
+diabetes	Q12206
+veto	Q65474590
+equilateral triangle	Q157002
+flavoring	Q4173974
+hawk	Q846664
+dogs	Q144
+doors	Q45354
+natural science	Q7991
+parallelogram	Q45867
+band	Q215380
+comics	Q1004
+asia	Q48
+teapot	Q245005
+fruit wine	Q633625
+ballot	Q905151
+management	Q2920921
+income	Q1527264
+jewel	Q83437
+creativity	Q170658
+knife	Q32489
+upward	Q4010255
+fish tail	Q107246611
+household appliances	Q212920
+plot	Q1758354
+evaluate	Q63013258
+cool	Q687900
+after reading	Q13428690
+light	Q9128
+economic crisis	Q290178
+sword	Q12791
+laborer	Q19862215
+software	Q7397
+dead sea	Q23883
+performance	Q35140
+bag	Q1323314
+dynamic	Q113558
+flour	Q36465
+lexicon	Q8096
+wither	Q2594281
+headphones	Q186819
+raptor	Q48428
+ladder	Q168639
+denim	Q652698
+art	Q735
+architecture	Q12271
+immediately	Q6004788
+tools	Q89198120
+pontoon	Q693340
+viscera	Q546191
+writing	Q37260
+earthquake	Q7944
+express delivery	Q57616098
+calcium hydroxide	Q182849
+justice	Q13189320
+root carving	Q1030213
+egg	Q93189
+pad	Q378681
+interior	Q2998430
+perfume	Q131746
+bright	Q221656
+shijiazhuang	Q58401
+supervision	Q1175042
+hard disk	Q4439
+australia	Q408
+rare	Q58157328
+oil paint	Q296955
+newspaper	Q11032
+wolf	Q3711329
+scene	Q1185607
+amusing	Q2916374
+research and develop	Q276099
+dead	Q48422
+supplies	Q47462850
+nation	Q6266
+measure blood pressure	Q95422148
+scull	Q18785956
+thermometer	Q646
+siege	Q188055
+chain bridge	Q10513727
+communication	Q11024
+transport	Q7590
+students	Q48282
+puncture	Q3396153
+osaka	Q35765
+beer	Q44
+under	Q15332388
+lift	Q194433
+southwest	Q2381698
+pain	Q81938
+hire	Q37540140
+stapler	Q489157
+board	Q865588
+hesitating	Q12348865
+clothes	Q11460
+persistence	Q368671
+mooring	Q587735
+capital	Q5119
+english	Q1860
+calendar	Q12132
+skirt	Q2160801
+colleagues	Q4227944
+illegal act	Q1456832
+jog	Q1430731
+sow	Q37148043
+shore	Q468756
+diatoms	Q61882239
+sorrow	Q2809148
+peking opera	Q335101
+customs	Q367293
+personnel	Q105764136
+story	Q831691
+middle school student	Q16003532
+ideal	Q840396
+conductive	Q1581308
+france	Q142
+starting	Q106476041
+water bottle	Q6817227
+village	Q532
+proposition	Q108163
+modern	Q20738981
+medicine	Q11190
+school	Q3914
+heat insulation	Q39456562
+modeling software	Q112123596
+courage	Q208160
+familiar	Q386905
+dry ice	Q194306
+white pigeon	Q2028499
+police station	Q861951
+saltpeter	Q12970360
+couch	Q131514
+jade	Q175089
+apartment	Q188507
+filament	Q2365301
+popular music	Q373342
+polo	Q134211
+soda	Q147538
+the usa	Q30
+sunlight	Q193788
+python	Q28865
+fire extinguisher	Q190672
+proverbs	Q35102
+singer	Q177220
+fishing	Q14373
+antelope	Q25894
+ferry	Q25653
+dried fruit	Q234901
+registration	Q2399307
+crisps	Q109121530
+greening	Q5604190
+gym	Q14092
+politician	Q82955
+litigation	Q107364261
+blade	Q330946
+citrus	Q81513
+fast food restaurant	Q1751429
+bun	Q13377687
+emotions	Q9415
+media	Q340169
+like	Q111653583
+feathers	Q81025
+mobility	Q96622169
+opera	Q1344
+bowl	Q153988
+microphone	Q46384
+river	Q4022
+canteen	Q1127296
+ruler	Q1097498
+date pit	Q91209086
+first	Q19269277
+entrance	Q1137365
+production	Q739302
+bamboo flute	Q54820129
+exposure	Q271960
+climber	Q86135347
+display	Q778384
+fireworks	Q127933
+inferiority	Q21171262
+eliminate	Q3051005
+pillow	Q99895
+lullaby	Q193605
+white jade	Q2221893
+panic	Q208450
+grassland	Q1006733
+student union	Q877998
+style	Q1292119
+inhale	Q832451
+tool	Q39546
+pigeon	Q2984138
+chestnut	Q1406070
+bark	Q184453
+tactics	Q207645
+stewardess	Q12337193
+asphalt	Q202251
+strap	Q3217573
+neutron	Q2348
+state	Q7275
+zinc	Q758
+price increase	Q7242589
+orchestra	Q42998
+food expenditure	Q39982873
+logistics	Q177777
+material	Q214609
+deer	Q23390
+wealthy	Q7978035
+white cloud	Q2517117
+sea ​​water	Q184395
+cherry	Q196
+orchid	Q142269
+pencil	Q14674
+cement	Q45190
+crave	Q63677013
+pants	Q39908
+racing horse	Q53716741
+seafront	Q63676707
+the ozone layer	Q35828165
+hair clip	Q1566584
+chaohu	Q855220
+member	Q9200127
+feed	Q2095
+scream	Q1932016
+camcorder	Q335234
+swarm	Q1199715
+over	Q1210093
+president	Q30461
+monument	Q4989906
+pork	Q191768
+chimpanzee	Q4126704
+palace	Q16560
+natural disaster	Q8065
+porcupine	Q1223829
+farmhouse	Q489357
+photosynthesis	Q11982
+banana	Q503
+tsunami	Q8070
+painting	Q3305213
+juicer	Q12334336
+bonfire	Q9505308
+building a house	Q77073841
+stationery	Q875696
+cocoa	Q45912917
+ocean	Q9430
+oven	Q36539
+soy milk	Q192199
+rifle	Q124072
+drama	Q25372
+soymilk	Q192199
+memorial	Q5003624
+window glass	Q3561314
+additive	Q350176
+monochrome	Q11231895
+folk art	Q1153484
+bonsai	Q64365
+fine	Q1243001
+false	Q5432619
+peach blossom	Q640500
+bedroom	Q193837
+guitar	Q6607
+learning	Q133500
+picture	Q96093619
+rodent	Q10850
+mistake	Q3732574
+advertisement	Q39911916
+numb	Q19973
+prudence	Q1165788
+yarn	Q49007
+movement	Q929848
+market economy	Q179522
+remember	Q18153484
+policeman	Q384593
+cloud	Q8074
+interesting	Q6046225
+milligram	Q3241121
+damp	Q2565924
+spout	Q54803638
+middle school	Q149566
+microwave oven	Q127956
+bull market	Q2116228
+bus	Q5638
+drawings	Q93184
+natural disasters	Q99427841
+place	Q98929991
+concert	Q182832
+dial	Q2827871
+bat	Q12047696
+congregation	Q2135977
+silver	Q1090
+throwing	Q12898216
+fridge	Q37828
+room	Q180516
+canine	Q19625
+afraid	Q4689421
+receiver	Q1339255
+towel	Q131696
+red sandalwood	Q2392887
+flood	Q8068
+precipitous	Q7239486
+delivery and use	Q34704992
+clowder	Q16869114
+virus	Q808
+hua luogeng	Q590111
+reed	Q2734060
+hyphenation	Q11994045
+mount tai	Q216059
+disaster mitigation	Q5281334
+ceremony	Q2627975
+infestation	Q1292038
+razor	Q13422881
+spacecraft	Q40218
+supermarket	Q180846
+sydney	Q3130
+investigation	Q21004260
+creative	Q667982
+womb	Q9612
+friction	Q82580
+weekday	Q41825
+gardener	Q758780
+senate	Q2570643
+sodium chloride	Q2314
+print	Q11060274
+extension	Q1384981
+outdated	Q57495609
+airflow	Q4698686
+oil paper	Q11554381
+end	Q12769393
+rules of conduct	Q59002477
+entertainment	Q173799
+manager	Q2462658
+livestock	Q103459
+competition	Q476300
+sleep	Q35831
+byte	Q8799
+confectionery	Q18646422
+poyang lake	Q207690
+venice	Q641
+flowing water	Q355304
+breakfast	Q80973
+cream	Q13228
+submit	Q86642263
+cola	Q134041
+rose	Q102231
+seats	Q37287750
+tanned	Q3980888
+zebra	Q32789
+gem	Q8923
+tasty	Q1758905
+sea	Q165
+window	Q35473
+glacier	Q35666
+little dog	Q48816342
+respond	Q604748
+pheasant	Q214169
+table lamp	Q36641511
+red wine	Q1827
+physics	Q413
+mathematical models	Q12121859
+sketch	Q5078274
+ugly	Q4080955
+on	Q1904
+scarce	Q7430330
+river water	Q30092769
+drying	Q278061
+summer	Q1313
+song	Q7366
+person	Q215627
+pin	Q838312
+ahead	Q17428119
+field	Q188869
+thread	Q1391831
+corn	Q154558
+church	Q16970
+noisy	Q11235817
+fe2o3	Q3067815
+alive	Q332798
+stagflation	Q185245
+grapes	Q10978
+enzyme	Q8047
+closure	Q5135520
+flower	Q506
+rice	Q5090
+netizen	Q167382
+aware	Q55691459
+species	Q7432
+cation	Q326277
+vinyl fiber	Q11903389
+fish	Q152
+three gorges	Q12514
+weapon	Q728
+admiration	Q2824657
+commodity	Q317088
+bridge	Q12280
+arbor	Q23457088
+steamship	Q12859788
+biogas	Q171076
+coast	Q93352
+reward	Q66688988
+invest	Q6060613
+nourishing	Q50386808
+bucket	Q47107
+rural areas	Q175185
+tree	Q10884
+container	Q987767
+lotus	Q16528
+ship	Q11446
+pie	Q13360264
+comparison	Q1720648
+carving	Q18448934
+convenient	Q36247
+rural area	Q175185
+furious	Q27198272
+repair	Q2144962
+sky	Q527
+raid	Q476807
+lily	Q40458125
+antler	Q29838581
+struggle	Q14536140
+conch	Q62792
+trigger	Q336751
+carbon dioxide	Q1997
+fiction	Q8253
+activated carbon	Q190878
+cushion	Q10971235
+weight	Q25288
+minor	Q170079
+nutrition	Q2138622
+selected poems	Q77002510
+pottery	Q11642
+water	Q283
+music notation	Q233861
+temperature	Q11466
+season	Q24384
+words	Q1321370
+lawn	Q207766
+rebar	Q150425
+radar	Q47528
+ditch	Q2048319
+piano piece	Q1746015
+alphabet	Q9779
+pesticides	Q131656
+shirt	Q76768
+service	Q7406919
+couple	Q219160
+peel	Q171187
+marketplace	Q330284
+laugh	Q170579
+flat	Q7001368
+awful	Q3325266
+cotton thread	Q64634437
+lion king	Q106980799
+post	Q49845
+organization	Q43229
+honey	Q10987
+delicate	Q11196749
+purple light	Q2118942
+necklace	Q189299
+infectious diseases	Q788926
+sneakers	Q1929383
+book	Q571
+musical note	Q55400101
+paws	Q3050175
+swimming	Q31920
+duck	Q3736439
+smelting	Q2748405
+hungry	Q3535686
+yuan dynasty	Q7313
+coffee	Q8486
+parts	Q45085932
+falcon	Q202071
+joystick	Q178805
+harbour	Q283202
+the constitution	Q779
+train	Q870
+transplanting	Q356031
+pearl river delta	Q1144286
+cocktail	Q134768
+construction	Q385378
+saltwater lake	Q21955018
+silver carp	Q76115
+hardness	Q3236003
+downslope	Q110628325
+madam	Q2011889
+nucleus	Q40260
+crime	Q83267
+wire	Q551997
+in	Q668
+landslides	Q15751090
+electric lamp	Q107197071
+exciting	Q5324675
+health care	Q31207
+owl	Q8021345
+stone	Q22731
+social sciences	Q34749
+seasoning	Q773108
+lubricant	Q323840
+acid rain	Q40178
+ecstatic	Q920312
+turkey	Q43
+united states	Q30
+deodorant	Q309035
+life	Q3
+broad beans	Q110014844
+feeling	Q205555
+participation	Q1773152
+rock sugar	Q849816
+pollution	Q58734
+high speed ​​rail	Q211382
+loose	Q488934
+metal	Q11426
+distance	Q126017
+hongze lake	Q1154914
+pill	Q1097859
+speeding	Q17598913
+shell	Q318028
+gown	Q1036729
+bead	Q1053956
+life science	Q420
+city	Q515
+father	Q7565
+milk	Q8495
+cheap	Q5088855
+baffled	Q18250984
+black box	Q29256
+film	Q11424
+intellectual property	Q131257
+hailstorm	Q61071643
+taking medicine	Q42764222
+oil field	Q211748
+rockery	Q1141231
+garden	Q1107656
+antenna	Q204664
+last	Q30013662
+treat	Q1127306
+bricks	Q37537637
+rock	Q8063
+cabbage	Q14328596
+heat	Q44432
+copper	Q753
+doll	Q168658
+cellulose	Q80294
+finalization	Q17089828
+sink	Q140565
+jiangsu	Q16963
+fallacy	Q186150
+admonition	Q4683829
+check in	Q1068755
+malt	Q152024
+liberal arts	Q13539073
+natural gas	Q40858
+cobra	Q2303322
+fitness	Q331710
+internet addiction	Q831735
+loss	Q20888800
+makeup	Q107196431
+dock	Q124282
+publishing	Q3972943
+greens	Q20134
+shoes	Q22676
+vulture	Q123120
+beads	Q27964852
+team	Q327245
+camping	Q455550
+solid	Q11438
+summary	Q776754
+wings	Q622988
+eggshell	Q2731253
+head	Q23640
+polymer	Q81163
+cool down	Q30612297
+gaseous	Q11432
+coke	Q192795
+food crop	Q31839438
+casualty	Q1056901
+court	Q41487
+beach	Q40080
+crops	Q235352
+ore	Q102798
+clock	Q376
+cup	Q81727
+page	Q1069725
+stock market	Q475000
+viper	Q192056
+base station	Q1379116
+pollutants	Q19829510
+tank	Q12876
+laboratory	Q483242
+drug	Q8386
+electricity generation	Q383973
+sickness	Q12136
+toothbrush	Q134205
+stegosaurus	Q14388
+jump	Q1151752
+orangutan	Q41050
+hangzhou	Q4970
+uniform	Q7434
+crowd	Q13430821
+consolation	Q1990010
+ascend	Q5926364
+emissions	Q10711575
+forest	Q4421
+tripod	Q683906
+fries	Q152088
+bit	Q8805
+canada	Q16
+air	Q7391292
+sincere	Q3372957
+hour	Q25235
+carrots	Q5046723
+income distribution	Q3915542
+object	Q488383
+blood	Q7873
+detoxification	Q1090423
+increment	Q54453625
+inside	Q109810863
+blossoms	Q2047589
+indulge	Q28452346
+scholars	Q2248623
+battery	Q240313
+guest room	Q111122056
+bath	Q22889
+cotton	Q11457
+design	Q82604
+ability	Q109581753
+stroke	Q12202
+harmful	Q84426668
+record	Q1241356
+clever	Q362872
+mobile	Q784445
+silicone	Q146439
+siberian tiger	Q69581
+ethics	Q9465
+chassis	Q1068107
+tuberculosis	Q12204
+box	Q188075
+odd	Q215302
+isosceles triangle	Q875937
+tub	Q38942
+juror	Q16102026
+phytoplankton	Q184755
+call for help	Q48631343
+toy	Q11422
+magnetic field	Q11408
+bookshelf	Q107326062
+thermos	Q23664
+typewriter	Q46335
+vitamins	Q34956
+drink	Q40050
+happiness	Q8
+diseases	Q12136
+scarcity	Q815758
+patient	Q181600
+banyan tree	Q465570
+toronto	Q172
+listener	Q7747542
+great wall	Q1117001
+lotion	Q1871151
+clockwork	Q1400734
+believe	Q815612
+poorly	Q6084258
+anhui	Q40956
+coral skeleton	Q81171102
+university	Q3918
+go home	Q5574826
+warship	Q3114762
+boat	Q35872
+mountain stream	Q2570370
+internet search	Q59639813
+waiting	Q16944487
+hollywood	Q34006
+bee	Q7391
+title page	Q1339862
+send	Q118093
+berlin	Q64
+warriors	Q739702
+burning	Q911076
+astronaut	Q11631
+dog	Q144
+pig	Q787
+injection	Q245359
+sharp	Q2542618
+fighter plane	Q127771
+allosaurus	Q14400
+stock	Q1196314
+music	Q638
+aircraft carrier	Q17205
+animal	Q729
+rice porridge	Q35661296
+water purifier	Q43339363
+cultural relics	Q15814324
+oil	Q42962
+venus	Q313
+stapling	Q112805200
+plastic film mulch	Q37739088
+bathroom	Q190771
+innovating	Q107519268
+social contact	Q28755323
+pack	Q1758639
+portion	Q2105114
+great white shark	Q129026
+watercolor	Q50030
+steel	Q11427
+jury	Q837675
+miss manners	Q6303561
+college	Q189004
+mascara	Q324120
+natural phenomenon	Q1322005
+unhappy	Q20706561
+lock	Q105731
+stadium	Q483110
+chef	Q3499072
+legal punishment	Q104778027
+spouse	Q1196129
+run	Q1360926
+army	Q37726
+illumination	Q6000365
+conclusion	Q20665666
+millilitre	Q2332346
+amusement park	Q194195
+aloe vera	Q80079
+rust	Q184197
+factory	Q83405
+computer desk	Q363931
+exchange	Q179076
+normal	Q273176
+subsequently	Q69693864
+home	Q7743
+turtleneck	Q1544262
+electrical appliance	Q2425052
+component	Q1310239
+palm	Q2001588
+hunan	Q45761
+vase	Q191851
+ring	Q46847
+crust	Q4232578
+barracks	Q131263
+toward	Q7829561
+war	Q198
+horn	Q163759
+space station	Q25956
+drop	Q185789
+shrub	Q42295
+flagship store	Q1426795
+cold	Q270952
+snake	Q2102
+megabit	Q3332814
+shovel	Q7220961
+windows	Q1406
+slaying	Q844482
+guangdong	Q15175
+dyes	Q37456277
+advise	Q290716
+pouch	Q949930
+software development	Q638608
+clothing	Q11460
+phs	Q339353
+tax	Q8161
+flag	Q14660
+development	Q7562091
+fight	Q650711
+purified water	Q59349761
+happy	Q8
+early warning	Q27813916
+clean	Q107998880
+employee	Q703534
+nap	Q5242962
+torrential rain	Q2238184
+riverway	Q2155636
+feline	Q64374257
+cooking	Q38695
+driving	Q999646
+methane	Q37129
+friend	Q17297777
+movie	Q11424
+classical music	Q9730
+fox	Q8331
+india	Q668
+tears	Q76469
+whiskers	Q913572
+jealous	Q42859626
+hive	Q104882831
+ginseng	Q20817212
+social	Q345367
+store	Q1800324
+drenched	Q28451497
+mountain peak	Q207326
+square	Q174782
+monopoly	Q43637
+pincushion	Q1083709
+spare tire	Q2074836
+pride	Q3071551
+badminton	Q7291
+paper	Q11472
+well	Q43483
+infrastructure	Q121359
+cd	Q974
+grapefruit	Q21552830
+construction industry	Q13405640
+lushan	Q622616
+phone	Q202064
+wardrobe	Q106106
+non-ferrous metals	Q96326026
+sign	Q3695082
+decoration	Q11796413
+paperback	Q193934
+rabbit	Q9394
+character	Q3241972
+pamper	Q492768
+black	Q23445
+boots	Q190868
+tv series	Q5398426
+static	Q1940914
+pistol	Q1907525
+snow	Q7561
+fan	Q193432
+traditional chinese medicine	Q200253
+airport	Q1248784
+tidy	Q27898977
+idea	Q131841
+desk	Q1064858
+hydrogen chloride	Q211086
+the universe	Q1
+melting	Q106080
+tropical	Q20755687
+tight	Q1937716
+off	Q21818619
+temperament	Q80157
+litre	Q11582
+fruit	Q3314483
+weight loss	Q718113
+crossing the line	Q3489000
+harvesting	Q213753
+smuggling	Q184840
+pub	Q212198
+choir	Q131186
+kid	Q7569
+constellation	Q8928
+regulatory	Q70330436
+rear-end collision	Q375102
+exhale	Q2215554
+exterior	Q1385033
+recruit	Q1141116
+grass	Q643352
+trademark	Q167270
+exhausted	Q15729017
+diamond drill	Q100293148
+textbook	Q83790
+milk powder	Q496696
+sad	Q281928
+battlefield	Q4895508
+lights	Q9128
+glasses	Q27334842
+ink	Q127418
+outsiders	Q1055332
+dislike	Q111653591
+return	Q65088609
+recovery	Q38127868
+mine disaster	Q1550225
+climb	Q1499786
+lady	Q467
+cooked	Q104439289
+rare metals	Q15760439
+previously	Q79030196
+safe	Q471898
+housekeeping	Q708514
+books	Q571
+storage	Q9158768
+same	Q27135598
+brewing	Q869095
+identical	Q842346
+infection	Q166231
+full moon	Q104641
+hinge	Q244330
+submerge	Q29558624
+cat	Q4167836
+flourishing	Q5462027
+true	Q16751793
+goals	Q4503831
+elk	Q61480
+concrete	Q22657
+tiger	Q19939
+private enterprise	Q110583109
+cent	Q58093
+vixen	Q1865430
+soon	Q3543591
+the great wall	Q12501
+monorail	Q187934
+cultivation	Q488798
+sandwich	Q28803
+modern art	Q38166
+iris	Q178748
+the uk	Q145
+conception	Q37754875
+delisting	Q73545549
+oxygen atoms	Q38674435
+speakers	Q79935565
+bracelet	Q201664
+shanghai	Q8686
+carry	Q432449
+truth	Q7949
+troupe	Q37555509
+weaving	Q192296
+selfie	Q12068677
+congestion	Q102187260
+cardboard	Q389782
+literary works	Q16321420
+article	Q191067
+white people	Q235155
+games	Q11410
+machine	Q11019
+score	Q522344
+dollar	Q14083
+consulting room	Q73371931
+warrior	Q1250916
+gymnosperms	Q59618763
+weibo	Q9387
+philosophy department	Q109246805
+jail	Q40357
+pneumonia	Q12192
+go	Q11413
+murder	Q132821
+hamburger	Q51974
+holster	Q1475429
+dinner	Q657221
+grade	Q18185
+confucius	Q4604
+medical equipment	Q6657015
+new	Q33979
+sweet and sour	Q104383007
+fall	Q11620540
+r&d	Q276099
+biscuits	Q19801756
+wooden table	Q64572893
+full	Q178026
+slippery road	Q2718084
+pointer	Q118155
+lenses	Q60415975
+mountains	Q8502
+walnut	Q208021
+calculate	Q622821
+cattle and sheep	Q23929134
+currency	Q8142
+researcher	Q1650915
+gothic architecture	Q176483
+journal	Q49850
+incompetent	Q62562253
+organism	Q7239
+player	Q4197743
+product	Q2424752
+ant	Q781
+body shape	Q25212061
+tedious	Q22471755
+hefei	Q185684
+treatment	Q179661
+sowing	Q777671
+wrong	Q29485
+soap	Q34396
+core	Q23595
+cattle	Q830
+mrs.	Q313549
+attractions	Q18237485
+dishonesty	Q5282225
+monitor	Q137823
+show	Q15116915
+division	Q169534
+lamb	Q4575936
+land	Q11081619
+vote	Q42904171
+leopard	Q34706
+arrest	Q1403016
+tile	Q468402
+compressor	Q178898
+autumn harvest	Q41775274
+bad	Q44142
+piano	Q5994
+cockroach	Q18123008
+bamboo	Q27891820
+carbon	Q623
+want	Q26256512
+grain	Q2995529
+speed bumps	Q112881805
+salad	Q9266
+droplets	Q97502608
+huangshan	Q180470
+compiling	Q12769326
+utensil	Q1357761
+security guard	Q856887
+cleaning	Q17200001
+firewood	Q35808
+satellite	Q1297322
+stitch	Q602854
+fishery	Q180538
+engine	Q44167
+negligence	Q160070
+pony	Q188828
+flight	Q206021
+hyperbole	Q181036
+poem	Q5185279
+font	Q4868296
+commercial vehicle	Q580939
+nail clippers	Q270380
+line	Q37105
+output	Q1150771
+tambourine	Q193666
+auctioneer	Q2743689
+guangming daily	Q3102631
+haze	Q643546
+spice	Q42527
+root	Q111029
+mass	Q11423
+agriculture	Q11451
+canvas	Q4259259
+sonata	Q131269
+running	Q105674
+mosquito	Q7367
+large	Q10989264
+prime minister	Q14212
+able	Q16157710
+minerals	Q7946
+scales	Q134566
+expensive	Q46944820
+bloom	Q2987425
+dad	Q7565
+quail	Q6072584
+fuel	Q42501
+athletics	Q542
+musician	Q639669
+abnormal	Q4668171
+commemoration day	Q21190816
+strings	Q709099
+behind	Q16938807
+pane	Q2416562
+police	Q35535
+scoundrel	Q1305415
+limousine	Q188475
+mediterranean	Q4918
+transparent	Q487623
+sorghum	Q105549747
+parishioner	Q55876931
+load	Q913999
+lazy	Q573952
+snack	Q749316
+brick	Q40089
+cookware	Q1521410
+disney	Q7414
+navigator	Q254651
+hate	Q160232
+beaver	Q47542
+mend	Q18035603
+gourd	Q7370671
+dive	Q3389076
+relief	Q245117
+program	Q170584
+welding	Q131172
+pear blossom	Q106767198
+dameisha	Q25101745
+bacon	Q11106
+lion	Q140
+metabolism	Q1057
+leaf	Q33971
+nutrient	Q181394
+birds	Q5113
+indolent	Q18573407
+collar	Q497903
+tides	Q1779406
+away	Q55604566
+reasonable	Q845329
+apple	Q89
+strength	Q605035
+places of interest	Q3469818
+downhill	Q319899
+star	Q523
+paper cut	Q1630633
+distant	Q126017
+curtains	Q899625
+application	Q166142
+hand	Q33767
+silicon	Q670
+bamboo slips	Q107489970
+bangalore	Q1355
+promotions	Q24024808
+tragic	Q39073224
+introvert	Q106765930
+hearing	Q160289
+waning moon	Q34604447
+yogurt	Q13317
+effort	Q170584
+environment	Q2249676
+steamer	Q178193
+granulated sugar	Q4409456
+plate	Q57216
+anterior	Q1867507
+wheat	Q15645384
+automobile	Q1420
+greenhouse	Q165044
+lodge	Q108840195
+air conditioner	Q1265533
+student	Q48282
+eas	Q1318054
+tree roots	Q4233325
+wok	Q208364
+discrimination	Q169207
+religion	Q9174
+water heater	Q16630809
+rich	Q106804044
+text message	Q13159882
+donjon	Q91165
+daisy	Q26158
+nuclear test	Q210112
+drug driving	Q104763414
+album	Q482994
+organized	Q110916833
+fungus	Q764
+calf	Q2935
+raw	Q18754
+back	Q133279
+consulting	Q63769412
+delicious	Q329192
+administration	Q5283295
+watch	Q178794
+spontaneous combustion	Q369012
+los angeles	Q65
+deforestation	Q169940
+color	Q1075
+martial arts	Q11417
+tyrannosaurus	Q14332
+spinach	Q36814998
+intranet	Q483426
+january	Q108
+mountain	Q8502
+extravert	Q9257166
+nuclear energy	Q12739
+spray	Q1424833
+boarding	Q887540
+teaching	Q352842
+humanities	Q80083
+golden monkey	Q775343
+radiation	Q18335
+paddy	Q15838080
+tea leaf	Q484083
+bow	Q46311
+starving	Q27499098
+knowledge	Q9081
+usa	Q30
+compute	Q622821
+chemistry	Q2329
+frightened	Q79322171
+water pollution	Q183129
+stove	Q203789
+protestantism	Q23540
+teacher	Q37226
+bench scale	Q26377667
+eagle	Q2092297
+sales management	Q5657855
+e-commerce	Q484847
+humans	Q5
+landscape	Q107425
+habit	Q1299714
+doctor	Q96633923
+tall	Q1770
+before	Q79030196
+nuclear submarine	Q757554
+wine	Q282
+female doctor	Q110228881
+implement	Q39546
+gini coefficient	Q162455
+chicken	Q780
+iron ore	Q191552
+gunpowder	Q12861
+historical fiction	Q1196408
+rebuttal	Q1410600
+monday	Q105
+subsidies	Q17054224
+doze	Q37019865
+protein	Q8054
+pipa	Q6685124
+furniture	Q14745
+pence	Q234129
+kilogram	Q11570
+vapor	Q255722
+irritate	Q6073879
+chess	Q718
+reading	Q199657
+bovid	Q25497
+artwork	Q838948
+leather bag	Q1107811
+emphasis	Q920915
+london	Q84
+shilling	Q213142
+homogeneous	Q110081157
+merchants	Q6818448
+holidays	Q107383247
+watermelon	Q38645
+insurance	Q43183
+physicist	Q169470
+lime water	Q78948116
+plant	Q756
+colorless	Q1396399
+bike	Q11442
+nanjing	Q16666
+bleach	Q11587
+loyalty	Q1132131
+ankle	Q168002
+immortal	Q208417
+aim	Q4503831
+benefit	Q101097118
+seagull	Q2699803
+flask	Q95685937
+branch	Q2923673
+preservatives	Q56429795
+jam	Q1269
+shoot	Q220869
+soy sauce	Q229385
+skipping rope	Q244158
+alcohol	Q47146337
+choker	Q1424519
+camera	Q15328
+man	Q8441
+physical changes	Q112902505
+sheet music	Q187947
+vocabulary	Q6499736
+sequoia	Q1975652
+yellow	Q943
+sparrow	Q28922
+visible light	Q76299
+carp	Q2751223
+outward	Q62128996
+powerful	Q20735603
+civil law	Q222249
+water plants	Q103312200
+oxides	Q50690
+thesis	Q1266946
+silent	Q103827699
+notes	Q89200784
+western europe	Q27496
+switch	Q5320
+trousers	Q39908
+shingles	Q182155
+receive	Q76664785
+fluorescent lamp	Q182925
+opposed	Q1498298
+inertia	Q122508
+upslope	Q17107707
+vinegar	Q41354
+galaxy	Q318
+jar	Q1207302
+exhibition	Q464980
+stingy	Q7617440
+out	Q1153773
+submarine	Q2811
+worker	Q327055
+ideation	Q17039022
+dry	Q1470363
+network card	Q165233
+insincere	Q112112091
+innovation	Q174165
+produce	Q1913301
+editing	Q194105
+muffler	Q1165721
+sane	Q7157308
+hospital	Q16917
+renewable energy	Q12705
+anti-scratch	Q16829014
+fluidity	Q3074482
+point	Q44946
+land sea	Q64141914
+processor	Q1466064
+selling	Q3380760
+flock	Q120997
+shanxi	Q46913
+magnolia	Q157017
+chemist	Q593644
+platypus	Q15343
+litter	Q476850
+cash	Q693464
+southeast	Q6452640
+device	Q3966
+formulation	Q3077570
+pot	Q2845
+breakthrough	Q2920535
+exit	Q854429
+down	Q15332388
+sun	Q132
+gourmet	Q22261015
+soil	Q36133
+cell phone	Q17517
+gas	Q11432
+steamed bread	Q7605452
+sales	Q194189
+microcomputer	Q32738
+unorganized	Q2141879
+beverage	Q40050
+fish head	Q5454629
+buttons	Q1573122
+woody plants	Q111694088
+gear	Q143828
+button	Q160464
+vertebrate	Q110551902
+external	Q66571843
+net	Q986291
+cry	Q152247
+housing	Q1247867
+front	Q899192
+flowers	Q506
+mirror	Q146701
+blossom	Q2047589
+immediacy	Q2811064
+erhu	Q726306
+wristband	Q1549506
+finance	Q43015
+fans	Q193432
+diary	Q185598
+casting the net	Q60346683
+seafood	Q192935
+crazy	Q505619
+mobile phone	Q17517
+rake	Q200822
+calcium deficiency	Q44705078
+chinchilla	Q1073656
+favor	Q1263003
+curing	Q1503716
+weighing	Q12779002
+exam	Q107383235
+reduced production	Q37211094
+fingers	Q2364697
+classroom	Q621114
+compass	Q103896
+bomber	Q170877
+property	Q937228
+brooch	Q499916
+necessary	Q2301186
+sugar	Q11002
+pavilion	Q276173
+failure	Q1121708
+election	Q40231
+unable	Q21655367
+ultrasound	Q162564
+valley	Q39816
+computer	Q68
+cow	Q11748378
+skateboard	Q15783
+lost	Q23567
+ice	Q23392
+rubber	Q18113858
+symbols	Q80071
+keyboard	Q1921606
+vibration	Q3695508
+clay	Q42302
+lad	Q3010
+review	Q265158
+academia	Q1211427
+silver dollar	Q1186710
+decrement	Q47496130
+inbound	Q74424273
+difficult	Q66741662
+superstition	Q133182
+einstein	Q937
+high speed ​​railway	Q858485
+kite	Q42861
+catalyst	Q12385831
+above	Q15332375
+buffalo	Q40435
+bulb	Q188748
+sweater	Q232191
+iron	Q677
+waterway	Q1267889
+investment	Q4290
+simple	Q508291
+generous	Q3100542
+blood vessel	Q988343
+radish	Q33669098
+descend	Q15805316
+paper-cut	Q1630633
+wool	Q42329
+action	Q4026292
+commander	Q6620231
+unwilling	Q20737431
+leg	Q133105
+manner	Q367293
+porcelain	Q130693
+gloves	Q169031
+after	Q79030284
+goose	Q16529344
+library	Q7075
+gold	Q897
+intelligent	Q2615500
+corruption	Q366
+jewellery	Q161439
+jacket	Q849964
+festival	Q132241
+chinese characters	Q8201
+private hospital	Q4284971
+phenomenon	Q483247
+altitude	Q190200
+orthography	Q43091
+condiment	Q2596997
+black tea	Q203415
+tail	Q60960
+cheongsam	Q836934
+bouquet	Q1187930
+tired	Q15729017
+jackal	Q125525
+mammals	Q7377
+butterfly	Q11946202
+iodine	Q1103
+bread	Q7802
+drilling	Q890886
+seaport	Q15310171
+osteoporosis	Q165328
+fishing boat	Q106619054
+frankness	Q19357492
+beetle	Q22671
+toaster	Q14890
+civil servant	Q212238
+taste buds	Q862867
+dress	Q200539
+receipt	Q330190
+text	Q234460
+theft	Q2727213
+balance	Q1365641
+epidemic	Q44512
+bidding	Q2142250
+cars	Q182153
+wing chun	Q217127
+instrument	Q109564569
+sadness	Q169251
+childhood	Q276258
+analog	Q50824047
+radio	Q872
+battle	Q178561
+miscalculation	Q21096985
+wheel	Q446
+calligraphy	Q12681
+county	Q28575
+heroin	Q60168
+orchard	Q236371
+white fungus	Q7994710
+mother	Q7560
+wig	Q105507
+steel industry	Q3406654
+fragility	Q2645227
+paragraph	Q194431
+tv	Q672
+sidewalk	Q177749
+college student	Q315247
+silica	Q15724995
+plane	Q17285
+scissors	Q40847
+month	Q5151
+seedling	Q1385709
+narrow	Q18162636
+tv station	Q1616075
+tai chi	Q167987
+bottle	Q80228
+audience	Q211198
+colouring	Q2022532
+letter	Q133492
+ingenious	Q16254265
+acrobat	Q11957145
+chen jingrun	Q715284
+beehive	Q165107
+education	Q8434
+combustion	Q133235
+woodcarving	Q337907
+configuration	Q1866689
+secretary	Q80687
+hourglass	Q179904
+day	Q573
+citizen	Q1020994
+technology	Q11016
+storytelling	Q989963
+drunk driving	Q250062
+victory	Q50000
+pine tree	Q59668787
+lens	Q768575
+jinwen	Q45530615
+extinction	Q123509
+forget	Q1377840
+entrepreneur	Q131524
+aircraft	Q11436
+bucks	Q23229
+beijing	Q956
+trees	Q10884
+herd	Q209542
+broker	Q160117
+night sky	Q1153471
+milk tea	Q1884224
+gap	Q16887036
+item	Q11723795
+order	Q36602
+flowers and trees	Q1458430
+dollars	Q4917
+industrial property	Q2750057
+sniffles	Q7547763
+serpent	Q742168
+liver	Q9368
+social science	Q34749
+disinfect	Q19758137
+shenzhen	Q15174
+lead	Q708
+gigabit	Q3105497
+ox	Q473194
+cowpen	Q5179793
+fabric	Q457931
+drought	Q43059
+lemon	Q1093742
+power	Q25107
+baby	Q998
+activity	Q1914636
+decisive	Q18245643
+lampshade	Q947686
+horde	Q915366
+commercial	Q2986261
+candy	Q185583
+confiscation	Q275038
+string	Q184754
+read	Q16881915
+card	Q42965339
+pool	Q11020
+ornamental trees	Q51377271
+operating system	Q9135
+judge	Q16533
+wet	Q843589
+elevator	Q132911
+class	Q37517
+volcanic eruption	Q7692360
+prison	Q40357
+energy	Q11379
+auto	Q1420
+umbrella	Q41607
+kitchen	Q43164
+flesh	Q13119823
+uphill	Q111084907
+fujian	Q41705
+science fiction	Q24925
+exercise	Q29051769
+fowl	Q853058
+integer	Q12503
+geometry	Q8087
+oil lamp	Q821952
+optical fiber	Q162
+broiler	Q326301
+sweet peach	Q20011064
+atom	Q9121
+emerge	Q1050405
+photo	Q125191
+proceed	Q107724490
+afflicted	Q16960397
+giggle	Q170579
+capsules	Q112597033
+comma	Q161736
+starch	Q41534
+drawing on	Q20490867
+tape measure	Q214649
+door	Q36794
+velvet antler	Q4344358
+poplar	Q30456678
+input	Q1125955
+loom	Q173056
+farmer	Q131512
+drinks	Q40050
+foraging	Q2916569
+reporter	Q42909
+wipers	Q1889932
+language	Q315
+works	Q24897655
+lace	Q231250
+host	Q221673
+road	Q34442
+control	Q29017603
+shrubbery	Q7504315
+hunger	Q165947
+personality	Q641118
+quyi	Q7273050
+stage	Q194428
+reference	Q121769
+russia	Q159
+bookmarks	Q112578360
+fever	Q38933
+arranged	Q4795846
+space	Q380933
+empty	Q67932942
+adjust	Q317158
+script	Q33260112
+forward	Q280658
+circuit	Q718570
+anger	Q79871
+xiaogang village	Q97027313
+practice	Q334600
+tasteless	Q30100868
+aluminum	Q663
+confused	Q557945
+risk	Q104493
+taciturn	Q305418
+thinker	Q24885626
+woman	Q467
+hybrid cat	Q111733338
+science	Q336
+red	Q3142
+food	Q2095
+vague	Q37241976
+catch	Q2941721
+plastic	Q11474
+plum	Q12372598
+huawei	Q160120
+market behavior	Q51036317
+securities	Q1416279
+sour	Q1928899
+sleeve	Q256458
+office	Q182060
+drummer	Q386854
+fatty meat	Q107262066
+tabletop	Q48885552
+sociology	Q21201
+roll film	Q1599148
+peanut	Q37383
+traffic police	Q16874635
+lumpy	Q9005258
+warm spring	Q7969566
+wonderland	Q3402263
+teacup	Q81707
+port	Q44782
+idioms	Q34770
+detective comics	Q1799866
+pursue	Q11639276
+shopping mall	Q31374404
+yangtze river	Q5413
+hairpin	Q1566584
+argumentation	Q15766977
+combat	Q650711
+stability	Q2325497
+warming	Q4311765
+act	Q421744
+roses	Q11822
+letters	Q1277575
+strong	Q991202
+climate change	Q125928
+timpani	Q189737
+illness	Q814207
+sleeves	Q79478214
+discovery	Q12772819
+energetic	Q3545708
+anchor	Q168432
+officer	Q61022630
+noise	Q179448
+mount huang	Q106865609
+questionnaire	Q747810
+excited	Q5419647
+college students	Q23915873
+flowing	Q355304
+apply	Q4781618
+angry	Q37097368
+official	Q599151
+trace elements	Q11781028
+brightness	Q221656
+icicle	Q496380
+human body	Q23852
+bronze	Q34095
+lotus pond	Q698996
+hieroglyphic	Q193762
+mining	Q44497
+screen	Q79137673
+hydrogen	Q556
+spoon	Q81895
+art dealer	Q173950
+training	Q918385
+illegal sales	Q50622697
+close	Q12731
+computer hardware	Q3966
+sports	Q349
+incorrect	Q29485
+loyal	Q1569314
+launch	Q659600
+park	Q22698
+caries	Q133772
+medications	Q3304003
+taizhou	Q57931
+croissant	Q207832
+gravity	Q11412
+illuminated	Q740910
+desk lamp	Q3216816
+brain	Q1073
+railroad	Q22667
+earth	Q2
+tire	Q169545
+wood	Q287
+decrease	Q5249659
+mountain range	Q46831
+legal act	Q1864008
+chocolate	Q195
+poverty alleviation	Q1824165
+bud	Q189838
+reaction	Q343546
+ukulele	Q61285
+leaves	Q1807128
+pen	Q165447
+dismiss	Q17052147
+pigment	Q161179
+heavy industry	Q622662
+lamp	Q1138737
+island	Q23442
+horse	Q726
+tea	Q6097
+mil	Q184194
+list	Q12139612
+enrage	Q18031357
+calcium supplementation	Q65386997
+harbor	Q283202
+dawn	Q11326182
+seat	Q2207370
+long	Q10786776
+chronic diseases	Q15816392
+antipathy	Q581459
+cao cao	Q204077
+electron	Q2225
+parcel	Q13107365
+uk	Q145
+villa	Q3950
+misjudgment	Q47817360
+torment	Q2290980
+divan	Q2354542
+bottom	Q11812678
+pestis	Q60300035
+planning	Q309100
+industry	Q8148
+warm	Q13099607
+mahogany	Q958012
+forage	Q13377214
+tofu	Q177378
+protestant	Q110714168
+watering	Q11453
+supervising	Q28007056
+travel	Q61509
+puppy	Q39266
+sunscreen	Q827658
+new moon	Q108566
+printing	Q11034
+love	Q316
+country	Q6256
+infant	Q998
+internet	Q75
+germany	Q183
+dolphin	Q7369
+colorful	Q1368665
+sweet	Q2003356
+monkey	Q1367
+online games	Q60315954
+clone	Q3308178
+convenience	Q5166129
+driving safely	Q72128824
+hearing aids	Q323808
+outbound	Q7111875
+company	Q783794
+beginning	Q529711
+digestive system	Q9649
+guangzhou	Q16572
+policy	Q1156854
+faith	Q5410500
+help	Q1643184
+pastry	Q477248
+baiyangdian	Q2665615
+interview	Q178651
+emotion	Q9415
+crayons	Q107383376
+delivery	Q2334804
+honeysuckle	Q53865327
+appliance	Q1183543
+syllogism	Q107342
+liquid	Q11435
+mood	Q331769
+flash	Q221836
+disagreement	Q104813442
+trunk	Q193472
+birch	Q865564
+squirrel	Q9482
+dig	Q285726
+south	Q667
+lake	Q23397
+girl	Q3031
+paris	Q90
+cut	Q1308978
+aluminium	Q663
+hieroglyph	Q193762
+steelyard	Q1650330
+cloth	Q5849500
+fatigue	Q9690
+haiku	Q37707
+legs	Q133105
+kids	Q646426
+staircase	Q12511
+up	Q1498
+rainbow	Q1052
+accountability	Q2798912
+printer	Q6500733
+windbreaks	Q51379512
+cover	Q331481
+refrigeration	Q747713
+fat	Q127980
+office hall	Q14713005
+strike	Q49776
+obsolete	Q107356532
+equipment	Q10273457
+flame	Q235544
+crutches	Q95444384
+soft	Q18037771
+learning to drive	Q18151617
+documents	Q9344
+judicial	Q105985
+glaciers	Q53865454
+ion	Q36496
+willing	Q37262525
+carbonated beverage	Q13417200
+dangerous	Q44104
+backward	Q16938807
+thrush	Q1249178
+power generation	Q26376690
+anti-impact	Q100159782
+part	Q15989253
+inland lake	Q31805992
+unfamiliar	Q7884320
+animals	Q729
+spring ploughing	Q18890897
+crow	Q43365
+giant panda	Q33602
+broadcast	Q109507868
+campaign	Q18812548
+wheat kernel	Q46988452
+sacrifice	Q179723
+pet rabbit	Q149017
+vacant	Q56056305
+common	Q1305037
+unaware	Q56736680
+railway	Q22667
+dry powder	Q1334805
+cicada	Q1947892
+cells	Q7868
+listing	Q798505
+penny	Q234129
+unfortunate	Q20077244
+socrates	Q913
+crate	Q605384
+big eyes	Q10858674
+bloated	Q29710539
+jujube	Q3093648
+disease	Q12136
+criminal police	Q6081679
+stamen	Q103129
+chloroplast	Q47263
+red fuji	Q3565037
+queen bee	Q816345
+liquor	Q56139
+auction	Q177923
+clan	Q211503
+bed	Q42177
+notepad	Q43013
+wide	Q2125243
+skills	Q10670181
+video game	Q7889
+ships	Q11446
+white	Q23444
+concerned	Q1324697
+drinking	Q876776
+skin	Q1074
+tent	Q170544
+poor	Q5729485
+salt	Q12370
+brush	Q614467
+bezoar	Q851415
+employ	Q1056396
+innovation development	Q98089548
+knee pad	Q681515
+passenger car	Q753779
+parish	Q102496
+solar system	Q544
+history	Q309
+mushrooms	Q83093
+sand	Q34679
+health	Q12147
+analysis	Q217602
+stamps	Q79701
+margins	Q1145724
+green	Q3133
+preservation	Q830393
+profit	Q2112073
+leather	Q286
+italy	Q38
+old	Q822282
+universe	Q1
+tea set	Q3408351
+panax notoginseng	Q15551438
+good people	Q46999639
+needle	Q1192354
+fragrant	Q5477756
+bristle	Q894231
+inverse	Q7017933
+anthracite	Q182458
+troops	Q10841757
+conductivity	Q4593291
+national day	Q57598
+survey method	Q814232
+swimsuit	Q212989
+oxygen	Q629
+government	Q7188
+bunk	Q107196737
+recruitment	Q899277
+mineral	Q7946
+lunar eclipse	Q44235
+security	Q2526135
+rampant	Q1469340
+instruments	Q50817452
+german	Q188
+starring	Q37156731
+hunt	Q36963
+bad news	Q1460233
+abstract	Q333291
+sensible	Q3478630
+beg	Q127955
+honest	Q5893251
+freeze	Q1105534
+electric light	Q1326621
+wheat ear	Q3966720
+keys	Q21491451
+rhododendron	Q189393
+agitated	Q27067578
+band leader	Q1198887
+shelf	Q2637814
+tea house	Q1072166
+telescope	Q4213
+scheme	Q1155772
+seizure	Q6279182
+vegetables	Q11004
+ultraviolet ray	Q11391
+impatience	Q16523690
+melody	Q170412
+adhesive	Q131790
+sphygmomanometer	Q503968
+death	Q4
+field army	Q51977
+board of directors	Q188628
+red beans	Q489703
+silk	Q37681
+electricity	Q12725
+celery	Q28298
+barrack	Q131263
+radio waves	Q4262
+car body	Q15729598
+judgment	Q3769186
+we media	Q2908608
+phone line	Q26359826
+poaching	Q34577
+thin	Q33686650
+diamond	Q5283
+antlers	Q834007
+peak	Q207326
+sentence	Q41796
+melon	Q5881191
+forbidden city	Q80290
+pass	Q23069713
+glass	Q11469
+national people's congress	Q19211
+hot	Q28128222
+headquarter	Q7540126
+reduced yield	Q40128349
+computer viruses	Q47508768
+depression	Q190429
+high temperature	Q28128222
+backpack	Q5843
+track	Q160342
+gun	Q110155210
+value	Q194112
+turtle	Q223044
+equator	Q23538
+miserable	Q20862847
+people	Q2472587
+safe landing	Q111870615
+gibbon	Q185939
+hypertension	Q95566669
+insect	Q1390
+freighter	Q2957747
+pest	Q219174
+waves	Q73006538
+vouchers	Q59927255
+hospitalized	Q69946132
+syringe	Q273318
+laces	Q56274905
+accent	Q16001535
+tableware	Q851782
+daydream	Q6028924
+lines	Q27910497
+transportation	Q12162227
+gramm	Q41803
+house	Q3947
+juice	Q8492
+mice	Q83310
+alarm	Q212758
+mamba	Q194425
+stocks	Q1484064
+notebook	Q43013
+air pressure	Q67389075
+rails	Q190478
+characters	Q1620031
+one day	Q232161
+gasoline	Q39558
+game	Q11410
+biodegradation	Q696715
+lollipop	Q217446
+railcar	Q752392
+whale	Q1865281
+below	Q15332388
+high mountain	Q29572836
+logical fallacies	Q37645474
+proofreading	Q834191
+visual art	Q36649
+bird	Q5113
+feast	Q132241
+body	Q170494
+formaldehyde	Q161210
+ivory	Q82001
+rules	Q1151067
+documentary	Q4164344
+chronograph	Q1088223
+moscow	Q649
