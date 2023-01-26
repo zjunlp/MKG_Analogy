@@ -1,7 +1,7 @@
 # MARS
 
 
-Code and datasets for the ICLR2023 paper "Multimodal Analogical Reasoning over Knowledge Graphs "
+Code and datasets for the ICLR2023 paper "[Multimodal Analogical Reasoning over Knowledge Graphs](https://arxiv.org/pdf/2210.00312.pdf)"
 
 ## Quick links
 * [MARS](#mars)
