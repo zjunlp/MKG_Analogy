@@ -1,10 +1,10 @@
-# MARS
+# MKG_Analogy
 
 
 Code and datasets for the ICLR2023 paper "[Multimodal Analogical Reasoning over Knowledge Graphs](https://arxiv.org/pdf/2210.00312.pdf)"
 
 ## Quick links
-* [MARS](#mars)
+* [MKG_Analogy](#MKG_Analogy)
     * [Overview](#overview)
     * [Requirements](#requirements)
     * [Data Preparation](#data-collection-and-preprocessing)
@@ -58,12 +58,12 @@ The statistics of the two datasets are shown in following figures:
 <img src="resource/MarKG.png" width="75%" height="75%" />
 </div>
 
-We put the text data under `MarT/dataset/`, and the image data can be downloaded through this [link](https://pan.baidu.com/s/1WZvpnTe8m0m-976xRrH90g) with extraction code (7hoc) and placed on `MarT/dataset/MARS/images`.
+We put the text data under `MarT/dataset/`, and the image data can be downloaded through this [link](https://pan.baidu.com/s/1WZvpnTe8m0m-976xRrH90g) with extraction code (7hoc) and placed on `MarT/dataset/MARS/images`. Please refer to [MarT](MarT/dataset/README.md) for details.
 
 The expected structure of files is:
 
 ```
-Multimodal Analogical Reasoning over Knowledge Graph
+MKG_Analogy
  |-- M-KGE	# multimodal knowledge representation methods
  |    |-- IKRL_TransAE   
  |    |-- RSME
