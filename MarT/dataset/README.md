@@ -33,7 +33,8 @@ The image data can be downloaded through this [link](https://pan.baidu.com/s/1WZ
 
 ## Data Format
 
-1. MarKG
+### 1. MarKG
+
 The format of the knowledge triplet data (wiki_tuple_ids.txt) is as below:
 ```text
 Q15026	P276	Q107
@@ -43,7 +44,7 @@ Q8686	P910	Q7214221
 ```
 In each line, the entity ids start with `Q` and relation ids start with `P`.
 
-2. MARS
+### 2. MARS
 
 The analogical reasoning data is stored in json format. For each analogical reasoning instance, we provide an analogical example and an analogical question entity to acquire the analgical answer entity, the data format is as below:
 ```text
