@@ -25,7 +25,7 @@ if processor_name == 'clip':
         piexel_values = processor(images=images, return_tensors='pt')['pixel_values'].squeeze()
         entity2visual[entity] = piexel_values
 
-    torch.save(entity2visual, 'dataset/MARS/entity_image_features_total.pth')
+    torch.save(entity2visual, 'dataset/MARS/entity_image_features.CLIP-VIT-16-32.pth')
         
 elif processor_name == 'vilt':
     entity2visual = []
