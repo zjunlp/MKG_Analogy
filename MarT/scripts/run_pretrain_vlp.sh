@@ -4,7 +4,7 @@ python main.py \
    --max_epochs=15 \
    --num_workers=4 \
    --model_name_or_path bert-base-uncased \
-   --visual_model_path flava-full \
+   --visual_model_path facebook/flava-full \
    --accumulate_grad_batches 1 \
    --model_class FlavaKGC \
    --batch_size 24 \

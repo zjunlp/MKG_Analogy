@@ -9,7 +9,7 @@ python main.py \
    --max_epochs=15  \
    --num_workers=4 \
    --model_name_or_path bert-base-uncased \
-   --visual_model_path clip-vit-base-patch32 \
+   --visual_model_path openai/clip-vit-base-patch32 \
    --accumulate_grad_batches 1 \
    --model_class MKGformerKGC \
    --batch_size 32 \

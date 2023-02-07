@@ -9,7 +9,7 @@ python main.py \
    --max_epochs=15  \
    --num_workers=4 \
    --model_name_or_path bert-base-uncased \
-   --visual_model_path vilt-b32-finetuned-vqa \
+   --visual_model_path dandelin/vilt-b32-finetuned-vqa \
    --accumulate_grad_batches 1 \
    --model_class ViltKGC \
    --batch_size 32 \
