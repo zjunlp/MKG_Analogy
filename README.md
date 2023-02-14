@@ -1,7 +1,7 @@
 # MKG_Analogy
 
-
 Code and datasets for the ICLR2023 paper "[Multimodal Analogical Reasoning over Knowledge Graphs](https://arxiv.org/pdf/2210.00312.pdf)"
+- ❗New: We provide a Huggingface Demo at [https://huggingface.co/spaces/zjunlp/MKG_Analogy](https://huggingface.co/spaces/zjunlp/MKG_Analogy), have fun!
 
 ## Quick links
 * [MKG_Analogy](#MKG_Analogy)
