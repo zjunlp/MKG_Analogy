@@ -16,6 +16,10 @@ Code and datasets for the ICLR2023 paper "[Multimodal Analogical Reasoning over 
 
 ## Overview
 
+<div align=center>
+<img src="resource/mkg_analogy.gif" width="45%" height="45%" />
+</div>
+
 In this work, we propose a new task of multimodal analogical reasoning over knowledge graph. A overview of the Multimodal Analogical Reasoning task can be seen as follows:
 
 <div align=center>
