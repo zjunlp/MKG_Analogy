@@ -62,7 +62,7 @@ The statistics of the two datasets are shown in following figures:
 <img src="resource/MarKG.png" width="75%" height="75%" />
 </div>
 
-We put the text data under `MarT/dataset/`, and the image data can be downloaded through the [google drive](https://drive.google.com/file/d/1AqnyrA05vKngfEbhw1mxY5qEoaqiKsC1/view?usp=share_link) or the [Baidu Pan(TeraBox) (code:7hoc)](https://pan.baidu.com/s/1WZvpnTe8m0m-976xRrH90g) and placed on `MarT/dataset/MARS/images`. Please refer to [MarT](MarT/dataset/README.md) for details.
+We put the text data under `MarT/dataset/`, and the image data can be downloaded through the [Google Drive](https://drive.google.com/file/d/1AqnyrA05vKngfEbhw1mxY5qEoaqiKsC1/view?usp=share_link) or the [Baidu Pan(TeraBox) (code:7hoc)](https://pan.baidu.com/s/1WZvpnTe8m0m-976xRrH90g) and placed on `MarT/dataset/MARS/images`. Please refer to [MarT](MarT/dataset/README.md) for details.
 
 The expected structure of files is:
 
