@@ -5,6 +5,7 @@ from PIL import Image
 import os
 import torch
 import random
+random.seed(1)
 
 base_path = 'dataset/MARS/images'
 img_path = os.listdir(base_path)
@@ -12,20 +13,18 @@ processor_name = 'clip'  # clip or vilt
 print(len(img_path))
 
 if processor_name == 'clip':
-    processor = CLIPProcessor.from_pretrained('openai/clip-vit-base-patch32')
+    processor = CLIPProcessor.from_pretrained('/zjunlp/lilei/PLMs/clip-vit-base-patch32')
 
-    entity2visual = {}
+    entity2visual = []
     for entity in tqdm(img_path, total=len(img_path)):
         path = os.path.join(base_path, entity)
         sub_files = os.listdir(path)
-        images = []
-        for file in sub_files:
-            image = Image.open(os.path.join(path, file)).convert('RGB')
-            images.append(image)
-        piexel_values = processor(images=images, return_tensors='pt')['pixel_values'].squeeze()
-        entity2visual[entity] = piexel_values
+        sub_file = random.sample(sub_files, k=1)[0]
+        image = Image.open(os.path.join(path, sub_file)).convert('RGB')
+        piexel_values = processor(images=image, return_tensors='pt')['pixel_values'].squeeze()
+        entity2visual.append(piexel_values)
 
-    torch.save(entity2visual, 'dataset/MARS/entity_image_features.CLIP-VIT-16-32.pth')
+    torch.save(torch.stack(entity2visual, dim=0), 'dataset/MARS/entity_image_features.CLIP-VIT-16-32.pth')
         
 elif processor_name == 'vilt':
     entity2visual = []
