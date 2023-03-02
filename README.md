@@ -165,24 +165,12 @@ bash scripts/run_finetune_mkgformer.sh
 If you use or extend our work, please cite the paper as follows:
 
 ```bibtex
-@article{DBLP:journals/corr/abs-2210-00312,
-  author    = {Ningyu Zhang and
-               Lei Li and
-               Xiang Chen and
-               Xiaozhuan Liang and
-               Shumin Deng and
-               Huajun Chen},
-  title     = {Multimodal Analogical Reasoning over Knowledge Graphs},
-  journal   = {CoRR},
-  volume    = {abs/2210.00312},
-  year      = {2022},
-  url       = {https://doi.org/10.48550/arXiv.2210.00312},
-  doi       = {10.48550/arXiv.2210.00312},
-  eprinttype = {arXiv},
-  eprint    = {2210.00312},
-  timestamp = {Tue, 27 Dec 2022 08:16:14 +0100},
-  biburl    = {https://dblp.org/rec/journals/corr/abs-2210-00312.bib},
-  bibsource = {dblp computer science bibliography, https://dblp.org}
-}
+@inproceedings{
+zhang2023multimodal,
+title={Multimodal Analogical Reasoning over Knowledge Graphs},
+author={Ningyu Zhang and Lei Li and Xiang Chen and Xiaozhuan Liang and Shumin Deng and Huajun Chen},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=NRHajbzg8y0P}
 }
 ```
