@@ -19,7 +19,6 @@ python main.py \
    --overwrite_cache \
    --data_dir dataset/MARS \
    --pretrain_path dataset/MarKG \
-   --task_name fb15k-237 \
    --eval_batch_size 128 \
    --max_seq_length 128 \
    --lr $lr \

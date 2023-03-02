@@ -13,7 +13,7 @@ processor_name = 'clip'  # clip or vilt
 print(len(img_path))
 
 if processor_name == 'clip':
-    processor = CLIPProcessor.from_pretrained('/zjunlp/lilei/PLMs/clip-vit-base-patch32')
+    processor = CLIPProcessor.from_pretrained('openai/clip-vit-base-patch32')
 
     entity2visual = []
     for entity in tqdm(img_path, total=len(img_path)):

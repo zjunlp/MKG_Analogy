@@ -158,6 +158,8 @@ After pre-training, fine-tune the model via following script:
 bash scripts/run_finetune_mkgformer.sh
 ```
 
+&#x1F353; We provide the best checkpoints of transformer-based models during the fine-tuning and pre-training phrases at this [link](https://drive.google.com/drive/folders/1ul9vC93t_e5t_fDj3zzgJKqPoPn_jgsX?usp=share_link). Download them and add `--only_test` in `scripts/run_finetune_xxx.sh` for testing experiments.
+
 ## Citation
 
 If you use or extend our work, please cite the paper as follows:

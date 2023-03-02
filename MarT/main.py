@@ -32,11 +32,12 @@ def _setup_parser():
     parser.add_argument("--seed", type=int, default=7)
     parser.add_argument("--data_class", type=str, default="KGC")
     parser.add_argument("--chunk", type=str, default="")
-    parser.add_argument("--model_class", type=str, default="RobertaUseLabelWord")
+    parser.add_argument("--model_class", type=str, default="MKGformerKGC")
     parser.add_argument("--checkpoint", type=str, default=None)
     parser.add_argument("--visual_model_path", type=str, default=None)
     parser.add_argument("--pretrain_path", type=str, default=None)
     parser.add_argument("--alpha", type=float, default=0.4, help="the weight of similarity loss")
+    parser.add_argument("--only_test", type=float, default=0.4, help="if true, only do test")
 
     # Get the data and model classes, so that we can add their specific arguments
     temp_args, _ = parser.parse_known_args()
@@ -151,17 +152,15 @@ def main():
                                             callbacks=callbacks, 
                                             logger=logger, 
                                             default_root_dir="training/logs",)
+    if not args.only_test:
+        trainer.fit(lit_model, datamodule=data)
+        path = model_checkpoint.best_model_path
+        # load best model
+        lit_model.load_state_dict(torch.load(path, map_location='cuda:2')["state_dict"])
     
-    trainer.fit(lit_model, datamodule=data)
-    path = model_checkpoint.best_model_path
-    # path = args.checkpoint
-
-    lit_model.load_state_dict(torch.load(path, map_location='cuda:2')["state_dict"])
     result = trainer.test(lit_model, datamodule=data)
     print(result)
 
-    print("*path"*30)
-    print(path)
 
 if __name__ == "__main__":
 

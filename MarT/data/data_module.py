@@ -166,9 +166,9 @@ class DataCollatorForSeq2Seq:
             features['rel_idx'] = torch.tensor(rel_idx)
         if sep_idx:
             features['sep_idx'] = torch.tensor(sep_idx)
-            features['attention_mask'] = features['attention_mask'].unsqueeze(1).expand([features['input_ids'].size(0), features['input_ids'].size(1), features['input_ids'].size(1)]).clone()
-            for i, idx in enumerate(sep_idx):
-                features['attention_mask'][i, :idx[2], idx[2]:] = 0
+            # features['attention_mask'] = features['attention_mask'].unsqueeze(1).expand([features['input_ids'].size(0), features['input_ids'].size(1), features['input_ids'].size(1)]).clone()
+            # for i, idx in enumerate(sep_idx):
+            #     features['attention_mask'][i, :idx[2], idx[2]:] = 0
         if len(visual_attention_masks) > 0:
             features['visual_attention_mask'] = torch.stack(visual_attention_masks)
         if rel_label:
