@@ -37,7 +37,7 @@ def _setup_parser():
     parser.add_argument("--visual_model_path", type=str, default=None)
     parser.add_argument("--pretrain_path", type=str, default=None)
     parser.add_argument("--alpha", type=float, default=0.4, help="the weight of similarity loss")
-    parser.add_argument("--only_test", type=float, default=0.4, help="if true, only do test")
+    parser.add_argument("--only_test", action="store_true", default=False)
 
     # Get the data and model classes, so that we can add their specific arguments
     temp_args, _ = parser.parse_known_args()
