@@ -7,3 +7,7 @@ checkpoints
 output/
 
 training/
+
+*.pkl
+
+*.pth

@@ -3,6 +3,7 @@
 Code and datasets for the ICLR2023 paper "[Multimodal Analogical Reasoning over Knowledge Graphs](https://arxiv.org/pdf/2210.00312.pdf)"
 - ❗New: We provide a Huggingface Demo at [https://huggingface.co/spaces/zjunlp/MKG_Analogy](https://huggingface.co/spaces/zjunlp/MKG_Analogy), have fun!
 - ❗New: We have released the Checkpoints at [Google Drive](https://drive.google.com/drive/folders/1ul9vC93t_e5t_fDj3zzgJKqPoPn_jgsX?usp=share_link) for reproducibility.
+- ❗New: We have released the Powerpoint at [ICLR2023_MKG_Analogy.pdf](resource/ICLR2023_MKG_Analogy.pdf).
 
 ## Quick links
 * [MKG_Analogy](#MKG_Analogy)
