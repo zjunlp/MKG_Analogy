@@ -44,7 +44,7 @@ def get_img_vec_array_forget(proportion,remember_proportion,rank_file='fb15k_vit
                 continue
             rel_rank[rel[10:]]=float(mrp[12:])
 
-    with open('../MarT/dataset/MarKG/relation2text.txt', 'r') as f:
+    with open('../../MarT/dataset/MarKG/relation2text.txt', 'r') as f:
         Lines=f.readlines()
 
     rel_id_pd=[]
@@ -79,7 +79,7 @@ def get_img_vec_sig_alpha(proportion,rank_file='fb15k_vit_rank.txt',eutput_file=
                 continue
             rel_rank[rel[10:]]=float(mrp[12:])
 
-    with open('../MarT/dataset/MarKG/relation2text.txt', 'r') as f:
+    with open('../../MarT/dataset/MarKG/relation2text.txt', 'r') as f:
         Lines=f.readlines()
 
     rel_sig_alpha=[]

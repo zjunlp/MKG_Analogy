@@ -31,10 +31,10 @@ class ImageEncoder():
         self.model.eval()
         dict = {}
 
-        file = open('analogy_best_img.pickle', 'rb')
+        file = open('data/analogy/analogy_best_img.pickle', 'rb')
         fb15k_best_img = pickle.load(file)
         file.close()
-        img_paths = list(fb15k_best_img.values())
+        img_paths = [os.path.join(base_path, value) for value in list(fb15k_best_img.values())]
         print(len(img_paths))
         pbart = tqdm(total=len(img_paths))
         while len(img_paths) > 0:
@@ -171,7 +171,7 @@ class PHash(ImageEncoder):
 if __name__ == "__main__":
 
     model1 = VisionTransformer()
-    base_path = '../MarT/dataset/MARS/images/'
+    base_path = 'data/images/'
     model1.get_embedding(base_path)
     model1.save_embedding('analogy_vit_best_img_vec.pickle')
 

@@ -11,3 +11,5 @@ training/
 *.pkl
 
 *.pth
+
+.DS_Store/*

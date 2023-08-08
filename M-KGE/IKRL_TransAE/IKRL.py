@@ -11,7 +11,7 @@ import torch.optim as optim
 from tqdm import tqdm
 import ctypes
 import pickle
-from DATA import TrainDataLoader, TestDataLoader
+from DATA_ import TrainDataLoader, TestDataLoader
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 

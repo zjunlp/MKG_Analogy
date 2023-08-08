@@ -14,7 +14,7 @@ import ctypes
 import pickle
 import gensim
 import random
-from DATA import TrainDataLoader, TestDataLoader
+from DATA_ import TrainDataLoader, TestDataLoader
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 
