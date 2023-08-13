@@ -55,10 +55,6 @@ class TransformerLitModel(BaseLitModel):
 
     def forward(self, x):
         return self.model(x)
-    
-    def on_train_start(self) -> None:
-        self._freeze_word_embedding()
-        return super().on_train_start()
 
     def training_step(self, batch, batch_idx):
         label = batch.pop("label")
