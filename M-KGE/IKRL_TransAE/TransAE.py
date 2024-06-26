@@ -986,14 +986,14 @@ if not finetune:
             transe = TransE(
                 ent_tot = len(entity2id),
                 rel_tot = len(relation2id),
-                dim = 400, 
+                dim = 200, 
                 p_norm = 1, 
                 norm_flag = True)
         else:
             transe = Analogy(
                 ent_tot = len(entity2id),
                 rel_tot = len(relation2id),
-                dim = 400, 
+                dim = 200, 
                 p_norm = 1, 
                 norm_flag = True)
 
@@ -1005,10 +1005,10 @@ if not finetune:
 
         trainer = Trainer(model=model, data_loader=train_dataloader, train_times=2000, alpha=alpha, use_gpu=True)
         trainer.run()
-        transe.save_checkpoint('ckpt/analogy/pt_trainse.ckpt')
+        transe.save_checkpoint('ckpt/analogy/pt_transe.ckpt')
 
         # test the model
-        transe.load_checkpoint('ckpt/analogy/pt_trainse.ckpt')
+        transe.load_checkpoint('ckpt/analogy/pt_transe.ckpt')
         tester = Tester(model=transe, data_loader= test_dataloader, use_gpu = True)
         tester.run_link_prediction(type_constrain = False)
 
