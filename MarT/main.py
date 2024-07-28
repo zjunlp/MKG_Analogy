@@ -156,7 +156,7 @@ def main():
         trainer.fit(lit_model, datamodule=data)
         path = model_checkpoint.best_model_path
         # load best model
-        lit_model.load_state_dict(torch.load(path, map_location='cuda:2')["state_dict"])
+        lit_model.load_state_dict(torch.load(path, map_location='cuda')["state_dict"])
     
     result = trainer.test(lit_model, datamodule=data)
     print(result)
